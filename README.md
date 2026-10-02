@@ -76,14 +76,6 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 
 </div>
 
-## Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shobeyrmoshashaee&bg_color=0d1117&color=58a6ff&line=00b4d8&point=ffffff&area=true&hide_border=true)
-
-</div>
-
 ## Let’s Connect
 
 I enjoy discussing Kubernetes architecture, production reliability, platform engineering, infrastructure automation, and practical DevOps education.
