@@ -12,11 +12,11 @@
 
 I am a Senior DevOps Engineer with about a decade of hands-on experience designing, automating, and operating reliable infrastructure. My work spans Kubernetes platforms, CI/CD, Linux, networking, observability, storage, virtualization, and production reliability.
 
-- Building highly available Kubernetes platforms with **RKE2, Cilium, Hubble, and Envoy Gateway**
+- Building highly available Kubernetes platforms with **RKE2, Cilium, Calico, Hubble, and Envoy Gateway**
 - Designing delivery workflows with **GitLab CI/CD, Argo CD, GitOps, Nexus, and private registries**
 - Automating infrastructure and operations with **Ansible, Bash, and Python**
-- Operating observability stacks with **VictoriaMetrics, Prometheus, Grafana, and the Elastic Stack**
-- Working with **HAProxy, Keepalived, NGINX, Longhorn, Ceph, VMware, and Proxmox**
+- Operating observability stacks with **VictoriaMetrics, Prometheus, Grafana, Zabbix, and the Elastic Stack**
+- Working with **HAProxy, Keepalived, NGINX, Longhorn, Ceph, S3-compatible Object Storage, VMware, and Proxmox**
 - Teaching Linux and Kubernetes through practical, production-oriented labs
 - Expanding into **RAG, MLOps, and AI infrastructure**
 
@@ -24,7 +24,7 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 
 | Platform Engineering | Delivery & Automation | Reliability & Observability | Infrastructure |
 |---|---|---|---|
-| Kubernetes, RKE2, Cilium, Hubble, Envoy Gateway | GitLab CI/CD, Argo CD, Ansible, GitOps | VictoriaMetrics, Prometheus, Grafana, Elastic Stack | Linux, HAProxy, Keepalived, NGINX, Longhorn, Ceph |
+| Kubernetes, RKE2, Cilium, Calico, Hubble, Envoy Gateway | GitLab CI/CD, Argo CD, Ansible, GitOps | VictoriaMetrics, Prometheus, Grafana, Zabbix, Elastic Stack | Linux, HAProxy, Keepalived, NGINX, Longhorn, Ceph, Object Storage |
 
 ## Technology Toolbox
 
@@ -34,6 +34,7 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=111111)
+![Calico](https://img.shields.io/badge/Calico-FF6A00?style=flat-square&logo=calico&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -41,8 +42,10 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white)
+![Object Storage](https://img.shields.io/badge/Object_Storage-S3_Compatible-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
