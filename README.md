@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00B4D8&height=210&section=header&text=Shobeyr%20Moshashaee&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20AI%20and%20RAG%20Infrastructure%20%7C%20Automation&descAlignY=57&descSize=17)
+<img src="./assets/profile-banner.svg" alt="Shobeyr Moshashaee — Senior DevOps Engineer, AI and RAG Infrastructure, Automation" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shobeyr-moshashaee-2583772b2)
 [![Email](https://img.shields.io/badge/Email-Let%27s%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:computer.engineer71@gmail.com)
