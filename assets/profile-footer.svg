@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Profile footer</title>
+  <defs>
+    <linearGradient id="footerGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00a6d6"/>
+      <stop offset="50%" stop-color="#1158c7"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="16" fill="#0d1117"/>
+  <path d="M0 25c150 45 270 51 431 22 188-34 316-55 474-20 117 26 205 42 295 16v77H0z" fill="url(#footerGradient)" opacity=".92"/>
+  <path d="M0 20c151 39 276 45 435 18 184-31 317-49 474-17 116 24 203 38 291 14" fill="none" stroke="#8be9ff" stroke-opacity=".55" stroke-width="2"/>
+</svg>
