@@ -24,7 +24,7 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 
 | Kubernetes & Containers | Delivery & Automation | Reliability & Observability | Infrastructure |
 |---|---|---|---|
-| Kubernetes, RKE2, Cilium, Calico, Hubble, Envoy Gateway | GitLab CI/CD, Argo CD, Terraform, Ansible, GitOps | VictoriaMetrics, Prometheus, Grafana, Zabbix, Elastic Stack | Linux, HAProxy, Keepalived, NGINX, Longhorn, Ceph, Rook Ceph, Object Storage, VMware, Proxmox |
+| Kubernetes, RKE2, Docker, Cilium, Calico, Hubble, Envoy Gateway, Service Mesh, Cilium Cluster Mesh, Istio, MetalLB | GitLab CI/CD, Argo CD, Terraform, Ansible, GitOps | VictoriaMetrics, Prometheus, Grafana, Zabbix, Elastic Stack | Linux, HAProxy, Keepalived, NGINX, Longhorn, Ceph, Rook Ceph, Object Storage, VMware, Proxmox |
 
 ### AI & RAG
 
@@ -39,12 +39,15 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=111111)
 ![Calico](https://img.shields.io/badge/Calico-FF6A00?style=flat-square&logo=calico&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![MetalLB](https://img.shields.io/badge/MetalLB-563D7C?style=flat-square&logo=kubernetes&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621EE5?style=flat-square&logo=victoriametrics&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
@@ -53,6 +56,13 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AI Infrastructure](https://img.shields.io/badge/AI_Infrastructure-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-6C5CE7?style=flat-square&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![LLM Integrations](https://img.shields.io/badge/LLM_Integrations-111827?style=flat-square&logo=openai&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-0066CC?style=flat-square&logo=databricks&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </div>
 
