@@ -67,7 +67,7 @@ I am a Senior DevOps Engineer with about a decade of hands-on experience designi
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobeyrmoshashaee&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobeyrmoshashaee&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=shobeyrmoshashaee&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
 </div>
 
