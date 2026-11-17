@@ -95,6 +95,6 @@ I enjoy discussing Kubernetes architecture, production reliability, platform eng
 
 ### Build reliably. Automate thoughtfully. Observe continuously.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:1F6FEB,100:0D1117&height=120&section=footer)
+<img src="./assets/profile-footer.svg" alt="" width="100%">
 
 </div>
